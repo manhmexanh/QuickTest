@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuickTest</string>
+    <string name="true_result">True</string>
+    <string name="false_result">False</string>
+    <string name="edt_start_time">Start time</string>
+    <string name="edt_input_time">Input time</string>
+    <string name="edt_end_time">End time</string>
+    <string name="btn_test">TEST</string>
+    <string name="tv_result">Result</string>
+</resources>
